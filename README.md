@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AJKKinney
 - 👀 I’m interested in Game Development and Entrepeneurship.
-- 🌱 I’m currently learning Blockchain Development.
+- 🌱 I’m currently learning Oclulus Quest 2 Development and Game Design Principles.
 - 📫 How to reach me: AJKKinney@gmail.com
-- 🐱‍💻 Currently working on a super secret project!
+- 🐱‍💻 Currently working on a point and click adventure game!
 - ✌  If you want to have conversations about Game Dev, Storytelling, Music Comp, or other Game Related topics, my door is open to you.
 
 <!---
