@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Game Networking and Game Design Principles.
 - 📫 How to reach me: AJKKinney@gmail.com
 - 🐱‍💻 Currently working on a point and click adventure game!
+- 🐱‍💻 Currently working as DreadXP QA and Debugging!
 - ✌  If you want to have conversations about Game Dev, Storytelling, Music Comp, or other Game Related topics, my door is open to you.
 
 <!---
