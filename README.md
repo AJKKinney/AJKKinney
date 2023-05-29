@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJKKinney
 - 👀 I’m interested in Game Development and Entrepeneurship.
-- 🌱 I’m currently learning Game Networking and Behaviour Trees.
+- 🌱 I’m currently learning Procedural Animation.
 - 📫 How to reach me: AJKKinney@gmail.com
 - 🐱‍💻 Currently working on My Friendly Neighborhood and a Survival Horror Game!
 - 🐱‍💻 Currently working as a Gameplay Engineer at DreadXP!
